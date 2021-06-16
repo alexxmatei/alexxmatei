@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexxmatei
-- 👀 I’m interested in ...
+- 👀 I’m interested in everything related to programming and software development.
 - 🌱 I’m currently learning:
   * MongoDB
   * Node.js
