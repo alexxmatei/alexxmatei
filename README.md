@@ -25,6 +25,7 @@
     * Linux
   * Miscellaneous
     * Regular expressions (RegEx)
+    * VIM
     * Verilog (Hardware Description Language)
 
 <!---
